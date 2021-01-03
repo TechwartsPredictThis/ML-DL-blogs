@@ -1,1 +1,1 @@
-# ML-DL-blogs
+# Contributing Guidelines
