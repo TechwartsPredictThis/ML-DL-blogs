@@ -1,1 +1,1 @@
-A Gentle to Machine Learning
+A Gentle introduction to Machine Learning
