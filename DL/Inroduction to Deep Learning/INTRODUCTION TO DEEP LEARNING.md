@@ -1,6 +1,6 @@
 # DEEP LEARNING 101
 
-![logo](https://github.com/abhishek-pes/ML-DL-blogs/blob/main/Assets/Machine-Learning.gif)
+![logo](https://github.com/abhishek-pes/ML-DL-blogs/blob/main/DL/Inroduction%20to%20Deep%20Learning/Assets/Machine-Learning.gif)
 
 ## WHAT IS DEEP LEARNING
 
@@ -15,7 +15,7 @@ The most fundamental component of a neural networs is a **Single Neuron**, also 
 
 > The below diagram is a representation of a single neuron.
 
-![single neuron](https://github.com/abhishek-pes/ML-DL-blogs/blob/main/Assets/image.png)
+![single neuron](https://github.com/abhishek-pes/ML-DL-blogs/blob/main/DL/Inroduction%20to%20Deep%20Learning/Assets/image.png)
 
 Here the input is `x`. Its connection to the neuron has a weight which is `w`. Whenever a value flows through a connection, you multiply the value by the connection's weight. **For the input x, what reaches the neuron is w \* x**.
 
@@ -26,7 +26,7 @@ the answer is quite simple, **a neural networks by modifying its weights**
 
 when many neurons are connected together it forms a neural network. In a neural network the neurons are organised into layers and each **layer** performs a relatively simple calculation.
 
-![neural network](https://github.com/abhishek-pes/ML-DL-blogs/blob/main/Assets/nerual%20network.JPG)
+![neural network](https://github.com/abhishek-pes/ML-DL-blogs/blob/main/DL/Inroduction%20to%20Deep%20Learning/Assets/nerual%20network.JPG)
 
 When we collect together linear units having a common set of inputs we get a **dense layer**.
 
@@ -38,13 +38,13 @@ https://www.tensorflow.org/api_docs/python/tf/keras/layers
 
 Deep Learning Algorithms use something called a neural network to find associations between a set of inputs and outputs. The basic structure is seen below:
 
-![dl working](https://github.com/abhishek-pes/ML-DL-blogs/blob/main/Assets/how%20dl%20works.jpg)
+![dl working](https://github.com/abhishek-pes/ML-DL-blogs/blob/main/DL/Inroduction%20to%20Deep%20Learning/Assets/how%20dl%20works.jpg)
 
 A neural network is composed of input, hidden, and output layers — all of which are composed of “nodes”. Input layers take in a numerical representation of data (e.g. images with pixel specs), output layers output predictions, while hidden layers are correlated with most of the computation.
 
 Information is passed between network layers through the function shown above. The major points to keep note of here are the tunable weight and bias parameters — represented by w and b respectively in the function above. These are essential to the actual “learning” process of a deep learning algorithm.
 
-![activation functoin](https://github.com/abhishek-pes/ML-DL-blogs/blob/main/Assets/activation%20function.png)
+![activation functoin](https://github.com/abhishek-pes/ML-DL-blogs/blob/main/DL/Inroduction%20to%20Deep%20Learning/Assets/activation%20function.png)
 
 After the neural network passes its inputs all the way to its outputs, the network evaluates how good its prediction was (relative to the expected output) through something called a loss function.
 **The goal of the neural network is to ultimately reduce this loss function by changing the parameters of w and b**
