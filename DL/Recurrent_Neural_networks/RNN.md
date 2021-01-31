@@ -1,7 +1,7 @@
 # Recurrent Neural Networks
 
-# What is Recurrent neural network?
-</br>
+## What is Recurrent neural network?
+
 **Recurrent Neural Networks (RNNs)** are a type of neural network architecture 
 which is mainly used to detect patterns in a sequence of data. Such data 
 can be handwriting, genomes,music, text or numeric time series .However, 
