@@ -82,6 +82,12 @@ With the chain rule which is also used in normal backpropagation .**
 ## Disadvantages:</br>
 1).Vanishing and exploding gradients.</br>
 2).RNNs are computationally slow.</br>
+<p align="center">
+    <img height="40%" width="40%" src="assets/1 T_ECcHZWpjn0Ki4_4BEzow.gif" />
+    <br/>
+    
+</p>
+
 
 ## Code Implementation:</br>
 [Click here](./rnn.py)
