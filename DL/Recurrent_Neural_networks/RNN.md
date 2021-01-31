@@ -85,7 +85,7 @@ With the chain rule which is also used in normal backpropagation .**
 <p align="center">
     <img height="40%" width="40%" src="assets/1 T_ECcHZWpjn0Ki4_4BEzow.gif" />
     <br/>
-    
+    <sub>https://www.google.com/search?q=rnn+gifs&client=firefox-b-d&sxsrf=ALeKk03uaBSGfUwwTO2ja4kbwipa0US9Xg:1612092586184&tbm=isch&source=iu&ictx=1&fir=mCfb2VUFtnyhhM%252CIAEhIyqLKm8AxM%252C_&vet=1&usg=AI4_-kRMKF83s6VHkk5Ya29Fl4gtRx5_Qw&sa=X&ved=2ahUKEwiqz8bviMbuAhXzjOYKHfEwAiIQ9QF6BAgCEAE#imgrc=mCfb2VUFtnyhhM</sub>
 </p>
 
 
