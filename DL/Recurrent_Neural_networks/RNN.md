@@ -1,6 +1,6 @@
-##Recurrent neural networks
+# Recurrent neural networks
 </br>
-####What is Recurrent neural network ?
+#### What is Recurrent neural network ?</br>
 Recurrent Neural Networks (RNNs) are a type of neural network architecture 
 which is mainly used to detect patterns in a sequence of data. Such data 
 can be handwriting, genomes,music, text or numeric time series .However, 
@@ -15,7 +15,7 @@ RNNs find applications in Generating Text,Speech Recognition,Video Tagging.
 </p>
 <br/>
 
-####How is it different from a feed forward neural network?
+#### How is it different from a feed forward neural network?
 </br>
 What differentiates Recurrent Neural Networks from Feedforward Neural Networks is how information 
 gets passed through the network. While Feedforward Networks pass information through the network 
@@ -30,7 +30,7 @@ not only the current input Xt ,in simple terms rnn remembers previous values.
 </p>
 <br/>
 
-####Important notations:
+#### Important notations:
 From figure 1.0 we can infer that the rnn first, takes the X(0) from the sequence of input and then it 
 outputs h(0) which together with X(1) is the input for the next step. So, the h(0) and X(1) is the input 
 for the next step. Similarly, h(1) from the next is the input with X(2) for the next step and so on. 
@@ -50,11 +50,11 @@ Wo->Weight of the output state</br>
 bo-> bias of the output state</br>
 
 
-#Since RNNs are sequences of inputs, an approach backpropagation through time is adopted.
+**Since RNNs are sequences of inputs, an approach backpropagation through time is adopted.
 
-####Backpropagation through time:</br>
+#### Backpropagation through time:</br>
 
-Backpropagation Through Time is the adaption of the backpropagation algorithm for RNNs. In theory, this unfolds 
+Backpropagation Through Time is the adaption of the backpropagation algorithm for **RNNs**. In theory, this unfolds 
 the RNN to construct a traditional Feedforward Neural Network where we can apply backpropagation. For that, we use 
 the same notations for the RNN as proposed before.When we forward pass our input Xt through the network we compute the 
 hidden state Ht and the output state Ot one step at a time. We can then define a loss function L(O,Y) to describe the 
