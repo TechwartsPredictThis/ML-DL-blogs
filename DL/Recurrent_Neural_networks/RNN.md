@@ -16,8 +16,8 @@ RNNs find applications in **Generating Text,Speech Recognition,Video Tagging.** 
 </p>
 <br/>
 
-#### How is it different from a feed forward neural network?
-</br>
+## How is it different from a feed forward neural network?
+
 What differentiates Recurrent Neural Networks from Feedforward Neural Networks is how **information 
 gets passed through the network.** While Feedforward Networks pass information through the network 
 without cycles, the **RNN has cycles and transmits information back into itself.** This enables them to 
@@ -31,8 +31,8 @@ not only the current input Xt ,in simple terms rnn remembers previous values.
 </p>
 <br/>
 
-#### Important notations:
-</br>
+## Important notations:
+
 From the (first figure)[./assets/rnn1.png] we can infer that the rnn first, takes the **X(0)** from the sequence of input and then it 
 outputs **h(0)** which together with **X(1)** is the input for the next step. So, the **h(0)** and **X(1)** is the input 
 for the next step. Similarly, **h(1)** from the next is the input with **X(2)** for the next step and so on. 
@@ -54,7 +54,7 @@ bo-> bias of the output state</br>
 
 **Since RNNs are sequences of inputs, an approach backpropagation through time is adopted.**
 
-#### Backpropagation through time:</br>
+## Backpropagation through time:</br>
 
 Backpropagation Through Time is the adaption of the backpropagation algorithm for **RNNs**. In theory, this unfolds 
 the RNN to construct a traditional Feedforward Neural Network where we can apply backpropagation. For that, we use 
@@ -73,7 +73,7 @@ With the chain rule which is also used in normal backpropagation .**
     <br/>
     
 </p>
-<br/>
+
 ## Advantages:</br>
 1). RNN can model sequences of data,i.e. remembers the values of previous set of inputs.</br>
 2). RNNs can process inputs of any length.</br>
