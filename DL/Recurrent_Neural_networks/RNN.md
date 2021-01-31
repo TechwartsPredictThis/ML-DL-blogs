@@ -91,3 +91,9 @@ With the chain rule which is also used in normal backpropagation .**
 
 ## Code Implementation:</br>
 [Click here](./rnn.py)
+
+
+## References:
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj93oPDiMbuAhUS5nMBHQtBCEoQFjABegQIARAC&url=https%3A%2F%2Farxiv.org%2Fabs%2F1808.03314&usg=AOvVaw2pRRA2BHdxMQ0_j5c8_baf </br>
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj93oPDiMbuAhUS5nMBHQtBCEoQFjAGegQICRAC&url=https%3A%2F%2Fwww.ijcai.org%2FProceedings%2F16%2FPapers%2F408.pdf&usg=AOvVaw3csL-yYL5hsvDLyqjPHBcm </br>
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjq6Z_fiMbuAhU3_XMBHbGVADwQFjACegQIBRAC&url=http%3A%2F%2Fwww.scholarpedia.org%2Farticle%2FRecurrent_neural_networks&usg=AOvVaw3VkYqNP_me-CoRFeD7whBN
