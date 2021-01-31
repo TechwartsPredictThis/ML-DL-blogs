@@ -1,5 +1,5 @@
 # Recurrent Neural Networks
-</br>
+
 # What is Recurrent neural network?
 </br>
 **Recurrent Neural Networks (RNNs)** are a type of neural network architecture 
