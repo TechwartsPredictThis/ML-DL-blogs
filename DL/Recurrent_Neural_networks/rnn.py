@@ -25,8 +25,8 @@ class rnn(nn.Module):
         self.hidden_size = hidden_size
         self.num_layers = num_layers
         self.num_classes = num_classes
-        self.lstm = nn.LSTM(input_size, hidden_size,
-                            num_layers, batch_first=True)
+        self.rnn = nn.RNN(input_size, hidden_size,
+                           num_layers, batch_first=True)
         self.linear = nn.Linear(hidden_size, num_classes)
 
     def forward(self, x):
