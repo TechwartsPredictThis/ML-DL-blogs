@@ -18,7 +18,7 @@ report is shown below:
 
 <p align="center">
     
-<img width="40%" height="40%" src="assets/Data-expansion-over-years.png" />
+<img width="40%" height="40%" src="assets/Data-expansion-over-years.png.png" />
 <br/> <sub>Image
 source:https://www.geeksforgeeks.org/what-is-big-data/</sub>
 </p>
@@ -77,7 +77,7 @@ something valuable to extract information.</br>
 
 <p align="center">
     
-<img width="40%" height="40%" src="assets/5vs.png" /> <br/> <sub>Image
+<img width="40%" height="40%" src="assets/5vs.png.png" /> <br/> <sub>Image
 source:https://java2blog.com/big-data-introduction/</sub>
 </p>
 <br/>
@@ -98,7 +98,7 @@ in an XML file.</br>
 
 <p align="center">
     
-<img width="40%" height="40%" src="assets/globe.png" /> <br/> <sub>Image
+<img width="40%" height="40%" src="assets/globe.png.png" /> <br/> <sub>Image
 source:https://www.delltechnologies.com/en-us/blog/not-using-full-backup-big-data/</sub>
 </p>
 <br/>
@@ -120,7 +120,7 @@ behavior.
 
 <p align="center">
     
-<img width="40%" height="40%" src="assets/sources.png" /> <br/>
+<img width="40%" height="40%" src="assets/sources.png.png" /> <br/>
 <sub>Image
 source:https://www.smartdatacollective.com/big-data-20-free-big-data-sources-everyone-should-know/</sub>
 </p>
