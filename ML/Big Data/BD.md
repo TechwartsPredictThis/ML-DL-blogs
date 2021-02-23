@@ -120,7 +120,7 @@ behavior.
 
 <p align="center">
     
-<img width="40%" height="40%" src="assets/sources.png.png" /> <br/>
+<img width="40%" height="40%" src="assets/sources.png.webp" /> <br/>
 <sub>Image
 source:https://www.smartdatacollective.com/big-data-20-free-big-data-sources-everyone-should-know/</sub>
 </p>
