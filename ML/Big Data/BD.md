@@ -24,7 +24,7 @@ source:https://www.geeksforgeeks.org/what-is-big-data/</sub>
 </p>
 <br/>
 
-Big Data defined
+What is Big Data
 ----------------
 
 Big data is **data that contains greater variety arriving in increasing
@@ -103,7 +103,7 @@ source:https://www.delltechnologies.com/en-us/blog/not-using-full-backup-big-dat
 </p>
 <br/>
 
-Why Is Big Data Important?
+Conclusion
 --------------------------
 
 **The importance of big data doesn’t revolve around how much data you
